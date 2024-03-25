@@ -15,6 +15,24 @@ In our scenario, we will consider three classes of lesions:
 - Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).
 
 ## Dataset Description
-We will utilize a dataset comprising dermatoscopic images of skin lesions, annotated with their respective classes. The dataset is curated to include a variety of examples for each class, ensuring robust model training and evaluation.
+The dataset has been obtained from the 'International Skin Imaging Collaboration' (ISIC) archive. It contains 2750 images divided into 3 sets:
+
+- Training Set: 2000 images
+
+- Validation Set: 150 images
+
+- Test Set: 600 images
+
+For each clinical case, we have two images available:
+
+- Dermoscopic image of the lesion (in the 'images' folder).
+
+- Binary mask with segmentation between lesion (mole) and skin (in the 'masks' folder).
+
+Additionally, there is a CSV file for each dataset (training, validation, and test), where each row corresponds to a clinical case, defined with two fields separated by commas:
+
+- The numeric id of the lesion: which allows defining the paths to the files containing the image and the mask.
+
+- The label of the lesion: available only for training and validation, being an integer between 0 and 2: 0: benign nevus, 1: malignant melanoma, 2: seborrheic keratosis. In the case of the test set, labels are not available (their value is -1).
 
 To get the dataset you can download it from here: https://drive.google.com/drive/folders/165KaDSlh51DFtulsZVFhFWYFFbCc1yov?usp=drive_link
