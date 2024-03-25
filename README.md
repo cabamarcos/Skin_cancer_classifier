@@ -8,9 +8,9 @@ Our objective is to implement a Convolutional Neural Network (CNN) that provides
 
 In our scenario, we will consider three classes of lesions:
 
-Malignant Melanoma: Melanoma, also known as malignant melanoma, is the most common type of skin cancer and arises from pigment-producing cells known as melanocytes. Melanomas typically appear on the skin and rarely in other locations such as the mouth, intestines, or eye.
+- Malignant Melanoma: Melanoma, also known as malignant melanoma, is the most common type of skin cancer and arises from pigment-producing cells known as melanocytes. Melanomas typically appear on the skin and rarely in other locations such as the mouth, intestines, or eye.
 
-Seborrheic Keratosis: Seborrheic keratosis is a non-cancerous (benign) skin tumor that originates in the cells of the outer layer of the skin (keratinocytes), making it a non-melanocytic lesion.
+- Seborrheic Keratosis: Seborrheic keratosis is a non-cancerous (benign) skin tumor that originates in the cells of the outer layer of the skin (keratinocytes), making it a non-melanocytic lesion.
 
-Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).
+- Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).
 To get the dataset: https://drive.google.com/drive/folders/165KaDSlh51DFtulsZVFhFWYFFbCc1yov?usp=drive_link
