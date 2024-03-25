@@ -13,4 +13,8 @@ In our scenario, we will consider three classes of lesions:
 - Seborrheic Keratosis: Seborrheic keratosis is a non-cancerous (benign) skin tumor that originates in the cells of the outer layer of the skin (keratinocytes), making it a non-melanocytic lesion.
 
 - Benign Nevus (Mole): A benign skin tumor originating from melanocytes (melanocytic).
-To get the dataset: https://drive.google.com/drive/folders/165KaDSlh51DFtulsZVFhFWYFFbCc1yov?usp=drive_link
+
+## Dataset Description
+We will utilize a dataset comprising dermatoscopic images of skin lesions, annotated with their respective classes. The dataset is curated to include a variety of examples for each class, ensuring robust model training and evaluation.
+
+To get the dataset you can download it from here: https://drive.google.com/drive/folders/165KaDSlh51DFtulsZVFhFWYFFbCc1yov?usp=drive_link
