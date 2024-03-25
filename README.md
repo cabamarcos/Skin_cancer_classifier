@@ -35,4 +35,4 @@ Additionally, there is a CSV file for each dataset (training, validation, and te
 
 - The label of the lesion: available only for training and validation, being an integer between 0 and 2: 0: benign nevus, 1: malignant melanoma, 2: seborrheic keratosis. In the case of the test set, labels are not available (their value is -1).
 
-To get the dataset you can download it from here: https://drive.google.com/drive/folders/165KaDSlh51DFtulsZVFhFWYFFbCc1yov?usp=drive_link
+To get the dataset you can download it from here: https://drive.google.com/drive/folders/1kKgMkF7kbjwuRVN6XfuHcgp3RbNHMrcz?usp=sharing
