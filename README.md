@@ -1,4 +1,15 @@
 # Skin Lesion Diagnosis System
+
+<!-- academic-catalog:start -->
+**UC3M · 4.º curso · Visión artificial**
+
+Experimento de clasificación de imágenes dermatoscópicas ISIC con redes convolucionales, preprocesamiento y aumento de datos en PyTorch.
+
+**Tecnologías:** Python, PyTorch, CNN.
+
+[Ver todos mis proyectos académicos](https://github.com/cabamarcos/academic-projects)
+<!-- academic-catalog:end -->
+
 ## Introduction
 In this practice, we will implement a system for diagnosing skin lesions based on dermatoscopic images.
 
